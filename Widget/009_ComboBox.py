@@ -20,8 +20,6 @@ class MyWidget(QWidget):
         for item in ["first","second","third","more"]:
             combo.addItem(item)
 
-
-
         #配置
         hBox=QHBoxLayout()
         hBox.addWidget(combo)

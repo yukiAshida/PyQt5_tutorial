@@ -4,3 +4,14 @@
 hBox(vBox).addSpacing(number)でスペース入れられる
 
 > ボタンのサイズを変えるには？
+
+
+
+QEvent.MouseButtonPress
+
+キープレス
+
+QLCDNumber
+
+QMainWindow
+QAction...
